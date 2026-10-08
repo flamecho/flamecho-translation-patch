@@ -1,6 +1,6 @@
 # 汉化补丁 / 预翻译存档
 
-本仓库是 [flamecho](https://www.flamecho.top) 的个人\汉化补丁与预翻译文件存档，
+本仓库是 [flamecho](https://www.flamecho.top) 的个人汉化补丁与预翻译文件存档，
 配合博客的「[汉化发布页](https://www.flamecho.top/p/trans)」使用。
 
 - **内容**：汉化补丁与预翻译文件（zip 包），文件名即游戏名，可直接下载。
